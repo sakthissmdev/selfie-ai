@@ -1,5 +1,6 @@
 import React, { Component } from "react";
 import "./styles.css";
+import Header from "./Header.js";
 import image from "./camera1.jpg";
 
 class App extends Component {
@@ -84,6 +85,7 @@ class App extends Component {
   render() {
     return (
       <div className="App">
+        <Header />
         <div className="header">
           <div className="header-logo">
             <h3>{this.state.event_name}</h3>

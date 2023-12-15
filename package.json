@@ -5,11 +5,12 @@
   "keywords": [],
   "main": "src/index.tsx",
   "dependencies": {
+    "crypto-js": "^4.2.0",
     "react": "18.2.0",
+    "react-bootstrap": "2.9.1",
     "react-dom": "18.2.0",
-    "react-scripts": "5.0.1",
     "react-router-dom": "6.21.0",
-    "react-bootstrap": "2.9.1"
+    "react-scripts": "5.0.1"
   },
   "devDependencies": {
     "@types/react": "18.2.38",

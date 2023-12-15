@@ -1,0 +1,2 @@
+# Ignore paths that generate in server.
+node_modules/*
